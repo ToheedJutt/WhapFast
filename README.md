@@ -46,6 +46,19 @@ https://github.com/user-attachments/assets/2bf86b54-45fc-4add-8de7-c426c3cdad9b
 
 [Features](#your-chats-on-your-desktop) · [Install](#install) · [Link your phone](#link-your-phone) · [Help](#guides-and-help)
 
+## WhapFast
+
+WhapFast is a fork of ZapFast, maintained by Toheed Jutt, focused on being lighter and more customizable.
+
+**Improvements being worked on in WhapFast:**
+- Changeable fonts: pick from bundled and system fonts, import your own .ttf/.otf font files, and adjust font size
+- Lightweight tuning: release-build optimizations aimed at lower RAM use and faster startup (measured against the original)
+- More Telegram-style client features (planned)
+
+## ⚠️ Caution
+
+WhapFast is an **unofficial** WhatsApp client. It is not affiliated with WhatsApp or Meta. Using unofficial clients may violate WhatsApp's Terms of Service and can lead to your account being suspended or banned. **Test it with a spare number first — never your main number.** Use at your own risk.
+
 ## Your chats, on your desktop
 
 | Feature | What you can do |
@@ -147,3 +160,7 @@ Licensed under the [MIT License](LICENSE).
     <img alt="ZapFast GitHub stars over time" src="https://api.star-history.com/chart?repos=crmne/zapfast&amp;type=date">
   </picture>
 </a>
+
+## Credits
+
+WhapFast is built on **ZapFast** by **crmne** (github.com/crmne/zapfast), used under the MIT License. All original credit for ZapFast belongs to its author and contributors. WhapFast's own changes are listed in the WhapFast section above.
